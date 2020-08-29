@@ -1,3 +1,4 @@
 from functions import *
 
-nomeDaFuncao();
+returnFunction = nomeDaFuncao();
+print(returnFunction);

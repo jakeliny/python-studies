@@ -1,3 +1,3 @@
 def nomeDaFuncao():
 	#codigo
-	return dadoRetornado
+	return "dadoRetornado"
