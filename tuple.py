@@ -14,7 +14,7 @@ emails = ["jakeliny.gr@gmail.com", "thasfin@gmail.com"]
 
 #criando uma tupla
 #list vai criar uma tupla com cada item da variavel email
-#enumerate enumera cada item da variavel emails
+#enumerate = enumera cada item da variavel emails
 varTupla = list(enumerate(emails))
 
 #rodar um for no tamanho da tupla len()

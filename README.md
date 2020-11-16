@@ -18,6 +18,3 @@ python studies
 - openFunction  (Manager files)
 - openTaining (Manager files)
 - TraingInventario (Dictionary and manager files)
-
-
-stop in 5.json
