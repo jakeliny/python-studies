@@ -1,7 +1,17 @@
 # Python Studies
-python studies
 
-### Order
+
+## Install on ubuntu
+`sudo apt install python`
+
+
+## Execute
+`python3 arquivo.py`
+
+On ubuntu python3 default exist
+
+
+## Order
 - Basic
 - Decision
 - Loops
@@ -13,7 +23,8 @@ python studies
 - Tuple
 - /Json
 
-### Training
+
+## Training
 - openBostonTraining (Lists)
 - openFunction  (Manager files)
 - openTaining (Manager files)
