@@ -1,5 +1,5 @@
 def chamarMenu():
-    escolha = int(input("Digite: \n<1> para registrar ativo \n<2> para persistir em arquivo \n<3> para exibir ativos armazenados: "))
+    escolha = int(input("Digite: \n<1> para registrar ativo \n<2> para persistir em arquivo \n<3> para exibir ativos armazenados \n<4> para sair: "))
     return escolha
 
 def registrar(dicionario):

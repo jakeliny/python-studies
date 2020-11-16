@@ -9,11 +9,8 @@ variavel= {
 variavel["Florinda"]=["Florinda Flores", "26/11/2017", "Recep_01"]
 
 #para pegar o valor
-print(variavel.get("Chaves"))
-
-
-
-##Criando um dicionario dinamico
+print(variavel.geT()) #mostra tudo que há no dicionario
+print(variavel.get("Chaves")) #mostra tudo na chave "Chaves"
 
 #criand um dicionario vazio
 usuarios={}
