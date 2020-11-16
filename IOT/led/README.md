@@ -5,6 +5,7 @@
 - 2 jumpers
 - led
 - resistor (marrom, laranja, laranja, dourado)
+
 <img width="400" src="https://raw.githubusercontent.com/jakeliny/python-studies/master/IOT/resistor_led.jpg">
 
 

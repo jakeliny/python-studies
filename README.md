@@ -14,6 +14,9 @@ Install pygeocoder:
 
 `pip install pygeocoder`
 
+Install serial
+`pip install serial`
+
 ## Execute
 `python3 arquivo.py`
 
@@ -43,6 +46,15 @@ On ubuntu python3 default exist
     - Ports
 - /FTP protocol
     - Ftplib
+- /IOT
+    - /Led
+        - Serial Usage
+        - Find port
+        - Send to arduino
+        - Receive from arduino
+    - /Sensor LDR
+        - Get temp
+        - Save on JSon
 
 
 ## Training
