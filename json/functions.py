@@ -1,7 +1,5 @@
 #modulo para a manipulação de json
-##Podemos começar a utilizar o simplejson quando a 
-##biblioteca JSON não estiver disponível importando-o com nomes diferentes:
-import simplejson as json
+import json
 
 #modulo para acessar objetos e funções do SO
 import os
