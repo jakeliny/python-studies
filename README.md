@@ -8,11 +8,16 @@ python studies
 - Lists
 - Function
 - Imports
+- Find
 - Dictionary
 - Tuple
+- /Json
 
-### Examples
+### Training
 - openBostonTraining (Lists)
 - openFunction  (Manager files)
 - openTaining (Manager files)
 - TraingInventario (Dictionary and manager files)
+
+
+stop in 5.json
