@@ -41,7 +41,7 @@ for chave, valor in dicionario.items():
 ##Others function
 
 #Retorna o dicionario em uma lista divido por tuplas, ex:
-.tems()
+.items()
 [("chaves",["login", "data", "estacao"]),("chaves",["login", "data", "estacao"])]
 
 #Retorna o dicionario em lista apenas com os dados
